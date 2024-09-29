@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <Card>
-        <CardBody title={"LA VIDA ES BELLA"} text={"La vida es solo un instante"}/>
+        <CardBody title={"LA VIDA ES FEA"} text={"La vida es solo un instante"}/>
         <List data = {arreglo} />
       </Card>
     </>
